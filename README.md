@@ -51,10 +51,14 @@ I am a fourth-year student of NTU "KhPI" majoring in Computer Science. However, 
     
   <td valign="top" width="50%">
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TaisiaKishynskaya&bg_color=1c1917&title_color=14b8a6&text_color=ffffff&hide_border=true&layout=compact" align="left" style="width: 100%" />
-</table>
 
-<a href="http://www.github.com/TaisiaKishynskaya"><img src="https://github-readme-streak-stats.herokuapp.com/?user=TaisiaKishynskaya&background=1c1917&ring=14b8a6&fire=14b8a6&currStreakNum=ffffff&currStreakLabel=14b8a6&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
+  <tr><td valign="top" width="50%"> 
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=TaisiaKishynskaya&background=1c1917&ring=14b8a6&fire=14b8a6&currStreakNum=ffffff&currStreakLabel=14b8a6&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
+</table>
 
 <b>Top Repositories</b>
 
-<div width="100%" align="center"><a href="https://github.com/TaisiaKishynskaya/ShareSkills.Project" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=TaisiaKishynskaya&repo=ShareSkills.Project&title_color=14b8a6&text_color=ffffff&icon_color=14b8a6&bg_color=1c1917&hide_border=true&locale=en" /></a><a href="https://github.com/TaisiaKishynskaya/CSharp_A-Level" align="right"><img align="right" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=TaisiaKishynskaya&repo=CSharp_A-Level&title_color=14b8a6&text_color=ffffff&icon_color=14b8a6&bg_color=1c1917&hide_border=true&locale=en" /></a></div><br /><br /><br /><br /><br /><br /><br />
+<div width="100%" align="center">
+  <a href="https://github.com/TaisiaKishynskaya/ShareSkills.Project" align="left">
+    <img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=TaisiaKishynskaya&repo=ShareSkills.Project&title_color=14b8a6&text_color=ffffff&icon_color=14b8a6&bg_color=1c1917&hide_border=true&locale=en" /></a>
+  <a href="https://github.com/TaisiaKishynskaya/CSharp_A-Level" align="right"><img align="right" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=TaisiaKishynskaya&repo=CSharp_A-Level&title_color=14b8a6&text_color=ffffff&icon_color=14b8a6&bg_color=1c1917&hide_border=true&locale=en" /></a></div><br /><br /><br /><br /><br /><br /><br />
