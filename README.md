@@ -51,6 +51,7 @@ I am a fourth-year student of NTU "KhPI" majoring in Computer Science. However, 
 </td><td valign="top" width="50%">
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TaisiaKishynskaya&hide_border=true&layout=compact" align="left" style="width: 100%" />
+</table>
 
 <a href="http://www.github.com/TaisiaKishynskaya"><img src="https://github-readme-streak-stats.herokuapp.com/?user=TaisiaKishynskaya&stroke=ffffff&background=1c1917&ring=14b8a6&fire=14b8a6&currStreakNum=ffffff&currStreakLabel=14b8a6&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
 
