@@ -49,10 +49,10 @@ I am a fourth-year student of NTU "KhPI" majoring in Computer Science. However, 
     <a href="http://www.github.com/TaisiaKishynskaya">
       <img src="https://github-readme-stats.vercel.app/api?username=TaisiaKishynskaya&show_icons=true&hide=&count_private=true&title_color=14b8a6&text_color=ffffff&icon_color=14b8a6&bg_color=1c1917&hide_border=true&show_icons=true" align="left" style="width: 100%" alt="TaisiaKishynskaya's GitHub stats" /></a></td>
 
-  <tr><td valign="top" width="50%"> 
+  <td valign="top" width="50%"> 
     <img src="https://github-readme-streak-stats.herokuapp.com/?user=TaisiaKishynskaya&background=1c1917&ring=14b8a6&fire=14b8a6&currStreakNum=ffffff&currStreakLabel=14b8a6&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
 
-  <td valign="top" width="50%">
+  <tr><td valign="top" width="50%">
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TaisiaKishynskaya&bg_color=1c1917&title_color=14b8a6&text_color=ffffff&hide_border=true&layout=compact" align="left" style="width: 100%" />
 </table>
 
