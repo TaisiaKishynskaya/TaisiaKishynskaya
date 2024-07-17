@@ -53,7 +53,7 @@ I am a fourth-year student of NTU "KhPI" majoring in Computer Science. However, 
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TaisiaKishynskaya&title_color=14b8a6&text_color=ffffff&hide_border=true&layout=compact" align="left" style="width: 100%" />
 </table>
 
-<a href="http://www.github.com/TaisiaKishynskaya"><img src="https://github-readme-streak-stats.herokuapp.com/?user=TaisiaKishynskaya&stroke=ffffff&background=1c1917&ring=14b8a6&fire=14b8a6&currStreakNum=ffffff&currStreakLabel=14b8a6&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
+<a href="http://www.github.com/TaisiaKishynskaya"><img src="https://github-readme-streak-stats.herokuapp.com/?user=TaisiaKishynskaya&background=1c1917&ring=14b8a6&fire=14b8a6&currStreakNum=ffffff&currStreakLabel=14b8a6&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
 
 <b>Top Repositories</b>
 
