@@ -12,8 +12,7 @@ I am a fourth-year student of NTU "KhPI" majoring in Computer Science. However, 
 * 🧠  I’m currently learning React and Angular
 * 🤝  I'm open to collaborating on interesting project that use modern development methods
 
-### Skills
-## Languages and Tools  
+### Languages and Tools  
 <div align="center">  
 <a href="https://github.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/git-scm-icon.svg" alt="Git" height="50" /></a>  
 <a href="https://docs.microsoft.com/en-us/dotnet/csharp/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/csharp-original.svg" alt="C#" height="50" /></a>  
@@ -35,7 +34,7 @@ I am a fourth-year student of NTU "KhPI" majoring in Computer Science. However, 
 <a href="https://www.linux.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/linux-original.svg" alt="Linux" height="50" /></a>  
 </div>  
 
-<br/>
+### Skills
 
 ### Socials
 
