@@ -44,7 +44,13 @@ I am a fourth-year student of NTU "KhPI" majoring in Computer Science. However, 
 
 <b>My GitHub Stats</b>
 
-<a href="http://www.github.com/TaisiaKishynskaya"><img src="https://github-readme-stats.vercel.app/api?username=TaisiaKishynskaya&show_icons=true&hide=&count_private=true&title_color=14b8a6&text_color=ffffff&icon_color=14b8a6&bg_color=1c1917&hide_border=true&show_icons=true" alt="TaisiaKishynskaya's GitHub stats" /></a>
+<table><tr><td valign="top" width="50%">
+  
+<a href="http://www.github.com/TaisiaKishynskaya"><img src="https://github-readme-stats.vercel.app/api?username=TaisiaKishynskaya&show_icons=true&hide=&count_private=true&title_color=14b8a6&text_color=ffffff&icon_color=14b8a6&bg_color=1c1917&hide_border=true&show_icons=true" align="left" style="width: 100%" alt="TaisiaKishynskaya's GitHub stats" /></a>
+  
+</td><td valign="top" width="50%">
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TaisiaKishynskaya&hide_border=true&layout=compact" align="left" style="width: 100%" />
 
 <a href="http://www.github.com/TaisiaKishynskaya"><img src="https://github-readme-streak-stats.herokuapp.com/?user=TaisiaKishynskaya&stroke=ffffff&background=1c1917&ring=14b8a6&fire=14b8a6&currStreakNum=ffffff&currStreakLabel=14b8a6&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
 
