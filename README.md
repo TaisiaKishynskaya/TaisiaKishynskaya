@@ -59,6 +59,5 @@ I am a fourth-year student of NTU "KhPI" majoring in Computer Science. However, 
 <b>Top Repositories</b>
 
 <div width="100%" align="center">
-  <a href="https://github.com/TaisiaKishynskaya/ShareSkills.Project" align="left">
-    <img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=TaisiaKishynskaya&repo=ShareSkills.Project&title_color=14b8a6&text_color=ffffff&icon_color=14b8a6&bg_color=1c1917&hide_border=true&locale=en" /></a>
+  <a href="https://github.com/TaisiaKishynskaya/ShareSkills.Project" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=TaisiaKishynskaya&repo=ShareSkills.Project&title_color=14b8a6&text_color=ffffff&icon_color=14b8a6&bg_color=1c1917&hide_border=true&locale=en" /></a>
   <a href="https://github.com/TaisiaKishynskaya/CSharp_A-Level" align="right"><img align="right" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=TaisiaKishynskaya&repo=CSharp_A-Level&title_color=14b8a6&text_color=ffffff&icon_color=14b8a6&bg_color=1c1917&hide_border=true&locale=en" /></a></div><br /><br /><br /><br /><br /><br /><br />
